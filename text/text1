@@ -1,0 +1,12 @@
+10 10
+w 0 w w w w w w w w
+w 0 0 0 0 0 0 0 w w
+w 0 w 0 w w w 0 w w
+w 0 w 0 w 0 w 0 w 0
+0 0 w 0 w 0 w 0 w 0
+w 0 w 0 0 0 w 0 0 0
+w 0 w w w w w w w 0
+w 0 w w w 0 10 0 w 10
+w 0 w w w 0 w 0 w w
+0 0 0 0 0 0 -100 0 0 100
+w w w w 0 w w w w w
